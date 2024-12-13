@@ -8,11 +8,11 @@
     :R a :Test .
 } => false .
 
-# ~Q 
-{ :Q a :Test } => false .
+# Q 
+:Q a :Test  .
 
-# ~R 
-{ :R a :Test } => false .
+# R 
+:R a :Test  .
 
 # |= ~P
 {
